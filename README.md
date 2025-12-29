@@ -1,10 +1,10 @@
-Hangman Game 
-##Description
+# Hangman Game 
+## Description
 This project is a multi-level cinematic Hangman game developed in JavaFX, designed to combine suspenseful gameplay, storytelling, and interactive learning. The game begins by asking the user to enter the names of three beloved ones, then launches a cinematic video to immerse the player. The gameplay is divided into three levels: Level One challenges the user to guess a word within a limited number of tries while navigating true and false hints; Level Two introduces a creepy video and sound effects to intimidate the player while they guess under a strict timer; Level Three misleads the user with distracting words and a false countdown, testing both knowledge and focus. Each level ends with dramatic feedback reflecting the outcome of the game, making this an immersive and psychological experience beyond standard Hangman.
 
 ---
 
-##Game Overview & Levels
+## Game Overview & Levels
 Introduction:
 User enters the names of three loved ones.
 A cinematic video plays, showing happy children before a sudden dramatic shift in tone (screams, suspense).
@@ -29,7 +29,7 @@ Level Three:
 
 ---
 
-##Features
+## Features
 .Cinematic storytelling with videos and sound effects
 .Multi-level Hangman game with suspenseful twists
 .Dynamic hints: true and false hints to challenge the user
@@ -40,7 +40,7 @@ Level Three:
 
 ---
 
-##Technologies Used
+## Technologies Used
 .Java
 .JavaFX (GUI, animations, media playback)
 .MediaPlayer / MediaView for video integration
@@ -48,7 +48,7 @@ Level Three:
 
 ---
 
-##Project Structure
+## Project Structure
 Hangman-Game/
 │
 ├─ src/                 # Java source files for each level and main game
@@ -68,7 +68,7 @@ Hangman-Game/
 
 ---
 
-##Learning Outcomes
+## Learning Outcomes
 .Building multi-level interactive games using JavaFX
 .Implementing timers, animations, and media playback
 .Designing suspenseful gameplay mechanics (hints, intimidation, false timers)
@@ -77,7 +77,7 @@ Hangman-Game/
 
 ---
 
-##Optional Features / Future Improvements:
+## Optional Features / Future Improvements:
 .Additional levels with more complex word challenges
 .Adaptive difficulty based on user performance
 .Enhanced video and sound effects integration
@@ -85,7 +85,7 @@ Hangman-Game/
 
 ---
 
-##Contact:
+## Contact:
 GitHub: christinakhoury
 
 
