@@ -86,6 +86,6 @@ Hangman-Game/
 ---
 
 ## Contact:
-GitHub: christinakhoury
+- GitHub: [github.com/christinakhoury](https://github.com/christinakhoury)
 
 
